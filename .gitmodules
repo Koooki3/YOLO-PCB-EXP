@@ -1,0 +1,6 @@
+[submodule "DINOV3_YOLO"]
+	path = DINOV3_YOLO
+	url = D:\\YOLO-PCB-EXP\\YOLO-PCB-EXP\\DINOV3_YOLO
+[submodule "ultralytics"]
+	path = ultralytics
+	url = D:\\YOLO-PCB-EXP\\YOLO-PCB-EXP\\ultralytics
